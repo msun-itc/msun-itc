@@ -1,4 +1,4 @@
-### Hi there 👋
+### МГУ адм. Г. И. Невельского
 
 <!--
 **msun-itc/msun-itc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
