@@ -7,8 +7,6 @@
 
 ### Системные администраторы:
 
-Системные администраторы:
-
 [Сергей](https://github.com/sermer07) https://github.com/sermer07
 
 [Егор](https://github.com/KycoKXypMbl) https://github.com/KycoKXypMbl
