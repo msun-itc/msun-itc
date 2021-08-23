@@ -7,9 +7,9 @@
 
 ### Системные администраторы:
 
-[Сергей](https://github.com/sermer07) https://github.com/sermer07
+[Сергей](https://github.com/sermer07)       https://github.com/sermer07
 
-[Егор](https://github.com/KycoKXypMbl) https://github.com/KycoKXypMbl
+[Егор](https://github.com/KycoKXypMbl)      https://github.com/KycoKXypMbl
 
 ### Наши навыки и умения:
 
